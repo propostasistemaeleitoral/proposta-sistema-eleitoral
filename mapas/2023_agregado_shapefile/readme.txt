@@ -1,0 +1,2 @@
+Devido à limitação de tamanho dos ficheiros no GitHub, não nos foi possivel colocar aqui os respetivos ficheiros, que podem consultados em:
+https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop
