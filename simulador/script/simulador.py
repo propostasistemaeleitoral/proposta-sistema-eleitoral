@@ -10,7 +10,7 @@ count = 0
 ##################
 lista_percentagem_minima_circulo_nacional = [(0, "0"), (0.01, "1"), (0.025, "2_5"), (0.05, "5")]
 ##################
-lista_ano = [2015, 2019, 2022, 2024]
+lista_ano = [2015, 2019, 2022, 2024, 2025]
 ##################
 # (numero_cirulos_uninominais, numero_mandatos_circulo_nacional, X)
 lista_numero_circulos_mandatos = [(100, 126, "A"), (113, 113, "B"), (126, 100, "C")]
