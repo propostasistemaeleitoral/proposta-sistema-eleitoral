@@ -10,7 +10,8 @@ count = 0
 ##################
 lista_percentagem_minima_circulo_nacional = [(0, "0"), (0.01, "1"), (0.025, "2_5"), (0.05, "5")]
 ##################
-lista_ano = [2015, 2019, 2022, 2024]
+# lista_ano = [2015, 2019, 2022, 2024]
+lista_ano = [2025]
 ##################
 # (numero_cirulos_uninominais, numero_mandatos_circulo_nacional, X)
 lista_numero_circulos_mandatos = [(100, 126, "A"), (113, 113, "B"), (126, 100, "C")]
@@ -188,6 +189,32 @@ for percentagem_minima_circulo_nacional, pasta_output_1 in lista_percentagem_min
                 }
 
             elif ano == 2024:
+                dicionario_sistema_atual={
+                'Aveiro': 16,
+                'Beja': 3,
+                'Braga': 19,
+                'Bragança': 3,
+                'Castelo Branco': 4,
+                'Coimbra': 9,
+                'Évora': 3,
+                'Faro': 9,
+                'Guarda': 3,
+                'Leiria': 10,
+                'Lisboa': 48,
+                'Portalegre': 2,
+                'Porto': 40,
+                'Santarém': 9,
+                'Setúbal': 19,
+                'Viana do Castelo': 5,
+                'Vila Real': 5,
+                'Viseu': 8,
+                'Açores': 5,
+                'Madeira': 6,
+                'Europa': 2,
+                'Fora da Europa': 2,
+                }
+
+            elif ano == 2025:
                 dicionario_sistema_atual={
                 'Aveiro': 16,
                 'Beja': 3,
